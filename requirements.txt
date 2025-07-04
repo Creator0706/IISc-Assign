@@ -1,4 +1,0 @@
-pandas
-pil
-torch
-transformers
