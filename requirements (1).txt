@@ -1,0 +1,5 @@
+pandas==1.5.3
+pil
+torch==2.0.1
+transformers
+pip>=21.0
